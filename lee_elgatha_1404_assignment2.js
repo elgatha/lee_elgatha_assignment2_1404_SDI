@@ -166,8 +166,8 @@ console.log("Since I spent so much time with my family, I realized how much I've
 
 
 //bahamasCustoms();
-//customsStop("I went through customs without a hitch they check my passport: " + immigrationStatus(100));
-//customsStop("I've been out of the Bahamas for 12 years and " + bahamasCustoms + "stamped my passport and checked my bags with no problem" );
+//customsStop("I went through customs without a hitch and they checked my passport: " + immigrationStatus(100));
+//customsStop("I've been out of the Bahamas for 12 years and " + bahamasCustoms + "stamped my passport and checked my bags with no problem, but I was fingerprinted" );
 
 seminoleStatus(25);
 runErrands(50);
